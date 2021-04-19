@@ -1,8 +1,7 @@
 import tkinter.filedialog
-from flask import Flask
-from flask_sqlalchemy import SQLAlchemy
+#from flask import Flask
+#from flask_sqlalchemy import SQLAlchemy
 from sqlalchemy.engine import create_engine
-from flask_sqlalchemy import SQLAlchemy
 import pandas as pd  # Data analysis and manipulation tool
 import tkinter as tk  # GUI toolkit
 from tkinter import *
@@ -11,7 +10,7 @@ from tkinter import *
 filedialog = tkinter.filedialog
 
 # Read the SQL file
-query = open('RF MAC Node Query TWC.SQL', 'r')
+query = open('Queries/RF MAC Node Query TWC.SQL', 'r')
 
 # DB Server information
 DIALECT = 'oracle'

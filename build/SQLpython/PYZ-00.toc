@@ -4,20 +4,9 @@
    'c:\\users\\p2963131\\documents\\~ charter\\python '
    'projects\\sqlpython\\venv\\lib\\site-packages\\pkg_resources\\__init__.py',
    'PYMODULE'),
-  ('pkg_resources._vendor.packaging.specifiers',
+  ('pkg_resources._vendor.appdirs',
    'c:\\users\\p2963131\\documents\\~ charter\\python '
-   'projects\\sqlpython\\venv\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\specifiers.py',
-   'PYMODULE'),
-  ('typing', 'C:\\Program Files\\Python38\\lib\\typing.py', 'PYMODULE'),
-  ('contextlib', 'C:\\Program Files\\Python38\\lib\\contextlib.py', 'PYMODULE'),
-  ('__future__', 'C:\\Program Files\\Python38\\lib\\__future__.py', 'PYMODULE'),
-  ('pkg_resources._vendor.packaging._typing',
-   'c:\\users\\p2963131\\documents\\~ charter\\python '
-   'projects\\sqlpython\\venv\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\_typing.py',
-   'PYMODULE'),
-  ('pkg_resources._vendor.packaging.tags',
-   'c:\\users\\p2963131\\documents\\~ charter\\python '
-   'projects\\sqlpython\\venv\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\tags.py',
+   'projects\\sqlpython\\venv\\lib\\site-packages\\pkg_resources\\_vendor\\appdirs.py',
    'PYMODULE'),
   ('ctypes',
    'C:\\Program Files\\Python38\\lib\\ctypes\\__init__.py',
@@ -26,6 +15,37 @@
    'C:\\Program Files\\Python38\\lib\\ctypes\\_endian.py',
    'PYMODULE'),
   ('struct', 'C:\\Program Files\\Python38\\lib\\struct.py', 'PYMODULE'),
+  ('pkg_resources._vendor.packaging.version',
+   'c:\\users\\p2963131\\documents\\~ charter\\python '
+   'projects\\sqlpython\\venv\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\version.py',
+   'PYMODULE'),
+  ('typing', 'C:\\Program Files\\Python38\\lib\\typing.py', 'PYMODULE'),
+  ('contextlib', 'C:\\Program Files\\Python38\\lib\\contextlib.py', 'PYMODULE'),
+  ('__future__', 'C:\\Program Files\\Python38\\lib\\__future__.py', 'PYMODULE'),
+  ('pkg_resources._vendor.packaging.__about__',
+   'c:\\users\\p2963131\\documents\\~ charter\\python '
+   'projects\\sqlpython\\venv\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\__about__.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging._typing',
+   'c:\\users\\p2963131\\documents\\~ charter\\python '
+   'projects\\sqlpython\\venv\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\_typing.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging.utils',
+   'c:\\users\\p2963131\\documents\\~ charter\\python '
+   'projects\\sqlpython\\venv\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\utils.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor',
+   'c:\\users\\p2963131\\documents\\~ charter\\python '
+   'projects\\sqlpython\\venv\\lib\\site-packages\\pkg_resources\\_vendor\\__init__.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging._compat',
+   'c:\\users\\p2963131\\documents\\~ charter\\python '
+   'projects\\sqlpython\\venv\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\_compat.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging.tags',
+   'c:\\users\\p2963131\\documents\\~ charter\\python '
+   'projects\\sqlpython\\venv\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\tags.py',
+   'PYMODULE'),
   ('logging',
    'C:\\Program Files\\Python38\\lib\\logging\\__init__.py',
    'PYMODULE'),
@@ -490,17 +510,21 @@
    'c:\\users\\p2963131\\documents\\~ charter\\python '
    'projects\\sqlpython\\venv\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\requirements.py',
    'PYMODULE'),
-  ('pkg_resources._vendor.packaging.utils',
-   'c:\\users\\p2963131\\documents\\~ charter\\python '
-   'projects\\sqlpython\\venv\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\utils.py',
-   'PYMODULE'),
   ('pkg_resources._vendor.packaging.markers',
    'c:\\users\\p2963131\\documents\\~ charter\\python '
    'projects\\sqlpython\\venv\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\markers.py',
    'PYMODULE'),
-  ('pkg_resources._vendor.packaging.version',
+  ('pkg_resources._vendor.packaging._structures',
    'c:\\users\\p2963131\\documents\\~ charter\\python '
-   'projects\\sqlpython\\venv\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\version.py',
+   'projects\\sqlpython\\venv\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\_structures.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging',
+   'c:\\users\\p2963131\\documents\\~ charter\\python '
+   'projects\\sqlpython\\venv\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\__init__.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging.specifiers',
+   'c:\\users\\p2963131\\documents\\~ charter\\python '
+   'projects\\sqlpython\\venv\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\specifiers.py',
    'PYMODULE'),
   ('pkg_resources._vendor.pyparsing',
    'c:\\users\\p2963131\\documents\\~ charter\\python '
@@ -524,30 +548,6 @@
    'PYMODULE'),
   ('ctypes.macholib.framework',
    'C:\\Program Files\\Python38\\lib\\ctypes\\macholib\\framework.py',
-   'PYMODULE'),
-  ('pkg_resources._vendor.packaging',
-   'c:\\users\\p2963131\\documents\\~ charter\\python '
-   'projects\\sqlpython\\venv\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\__init__.py',
-   'PYMODULE'),
-  ('pkg_resources._vendor.appdirs',
-   'c:\\users\\p2963131\\documents\\~ charter\\python '
-   'projects\\sqlpython\\venv\\lib\\site-packages\\pkg_resources\\_vendor\\appdirs.py',
-   'PYMODULE'),
-  ('pkg_resources._vendor.packaging._structures',
-   'c:\\users\\p2963131\\documents\\~ charter\\python '
-   'projects\\sqlpython\\venv\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\_structures.py',
-   'PYMODULE'),
-  ('pkg_resources._vendor',
-   'c:\\users\\p2963131\\documents\\~ charter\\python '
-   'projects\\sqlpython\\venv\\lib\\site-packages\\pkg_resources\\_vendor\\__init__.py',
-   'PYMODULE'),
-  ('pkg_resources._vendor.packaging._compat',
-   'c:\\users\\p2963131\\documents\\~ charter\\python '
-   'projects\\sqlpython\\venv\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\_compat.py',
-   'PYMODULE'),
-  ('pkg_resources._vendor.packaging.__about__',
-   'c:\\users\\p2963131\\documents\\~ charter\\python '
-   'projects\\sqlpython\\venv\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\__about__.py',
    'PYMODULE'),
   ('sysconfig', 'C:\\Program Files\\Python38\\lib\\sysconfig.py', 'PYMODULE'),
   ('pkg_resources.extern',
@@ -601,13 +601,13 @@
    'c:\\users\\p2963131\\documents\\~ charter\\python '
    'projects\\sqlpython\\venv\\lib\\site-packages\\pandas\\__init__.py',
    'PYMODULE'),
-  ('pandas._libs.tslibs',
-   'c:\\users\\p2963131\\documents\\~ charter\\python '
-   'projects\\sqlpython\\venv\\lib\\site-packages\\pandas\\_libs\\tslibs\\__init__.py',
-   'PYMODULE'),
   ('pandas._libs.window',
    'c:\\users\\p2963131\\documents\\~ charter\\python '
    'projects\\sqlpython\\venv\\lib\\site-packages\\pandas\\_libs\\window\\__init__.py',
+   'PYMODULE'),
+  ('pandas._libs.tslibs',
+   'c:\\users\\p2963131\\documents\\~ charter\\python '
+   'projects\\sqlpython\\venv\\lib\\site-packages\\pandas\\_libs\\tslibs\\__init__.py',
    'PYMODULE'),
   ('numpy',
    'c:\\users\\p2963131\\documents\\~ charter\\python '
@@ -742,45 +742,37 @@
    'c:\\users\\p2963131\\documents\\~ charter\\python '
    'projects\\sqlpython\\venv\\lib\\site-packages\\setuptools\\__init__.py',
    'PYMODULE'),
+  ('setuptools._vendor.packaging.__about__',
+   'c:\\users\\p2963131\\documents\\~ charter\\python '
+   'projects\\sqlpython\\venv\\lib\\site-packages\\setuptools\\_vendor\\packaging\\__about__.py',
+   'PYMODULE'),
   ('setuptools._vendor',
    'c:\\users\\p2963131\\documents\\~ charter\\python '
    'projects\\sqlpython\\venv\\lib\\site-packages\\setuptools\\_vendor\\__init__.py',
-   'PYMODULE'),
-  ('setuptools._vendor.packaging.tags',
-   'c:\\users\\p2963131\\documents\\~ charter\\python '
-   'projects\\sqlpython\\venv\\lib\\site-packages\\setuptools\\_vendor\\packaging\\tags.py',
-   'PYMODULE'),
-  ('setuptools._vendor.packaging.markers',
-   'c:\\users\\p2963131\\documents\\~ charter\\python '
-   'projects\\sqlpython\\venv\\lib\\site-packages\\setuptools\\_vendor\\packaging\\markers.py',
    'PYMODULE'),
   ('setuptools._vendor.packaging.version',
    'c:\\users\\p2963131\\documents\\~ charter\\python '
    'projects\\sqlpython\\venv\\lib\\site-packages\\setuptools\\_vendor\\packaging\\version.py',
    'PYMODULE'),
+  ('setuptools._vendor.packaging.tags',
+   'c:\\users\\p2963131\\documents\\~ charter\\python '
+   'projects\\sqlpython\\venv\\lib\\site-packages\\setuptools\\_vendor\\packaging\\tags.py',
+   'PYMODULE'),
   ('setuptools._vendor.packaging.specifiers',
    'c:\\users\\p2963131\\documents\\~ charter\\python '
    'projects\\sqlpython\\venv\\lib\\site-packages\\setuptools\\_vendor\\packaging\\specifiers.py',
    'PYMODULE'),
-  ('setuptools._vendor.pyparsing',
+  ('setuptools._vendor.packaging._typing',
    'c:\\users\\p2963131\\documents\\~ charter\\python '
-   'projects\\sqlpython\\venv\\lib\\site-packages\\setuptools\\_vendor\\pyparsing.py',
-   'PYMODULE'),
-  ('setuptools._vendor.packaging.utils',
-   'c:\\users\\p2963131\\documents\\~ charter\\python '
-   'projects\\sqlpython\\venv\\lib\\site-packages\\setuptools\\_vendor\\packaging\\utils.py',
-   'PYMODULE'),
-  ('setuptools._vendor.packaging._structures',
-   'c:\\users\\p2963131\\documents\\~ charter\\python '
-   'projects\\sqlpython\\venv\\lib\\site-packages\\setuptools\\_vendor\\packaging\\_structures.py',
+   'projects\\sqlpython\\venv\\lib\\site-packages\\setuptools\\_vendor\\packaging\\_typing.py',
    'PYMODULE'),
   ('setuptools._vendor.packaging._compat',
    'c:\\users\\p2963131\\documents\\~ charter\\python '
    'projects\\sqlpython\\venv\\lib\\site-packages\\setuptools\\_vendor\\packaging\\_compat.py',
    'PYMODULE'),
-  ('setuptools._vendor.packaging.requirements',
+  ('setuptools._vendor.pyparsing',
    'c:\\users\\p2963131\\documents\\~ charter\\python '
-   'projects\\sqlpython\\venv\\lib\\site-packages\\setuptools\\_vendor\\packaging\\requirements.py',
+   'projects\\sqlpython\\venv\\lib\\site-packages\\setuptools\\_vendor\\pyparsing.py',
    'PYMODULE'),
   ('setuptools._vendor.packaging',
    'c:\\users\\p2963131\\documents\\~ charter\\python '
@@ -790,13 +782,21 @@
    'c:\\users\\p2963131\\documents\\~ charter\\python '
    'projects\\sqlpython\\venv\\lib\\site-packages\\setuptools\\_vendor\\ordered_set.py',
    'PYMODULE'),
-  ('setuptools._vendor.packaging.__about__',
+  ('setuptools._vendor.packaging._structures',
    'c:\\users\\p2963131\\documents\\~ charter\\python '
-   'projects\\sqlpython\\venv\\lib\\site-packages\\setuptools\\_vendor\\packaging\\__about__.py',
+   'projects\\sqlpython\\venv\\lib\\site-packages\\setuptools\\_vendor\\packaging\\_structures.py',
    'PYMODULE'),
-  ('setuptools._vendor.packaging._typing',
+  ('setuptools._vendor.packaging.utils',
    'c:\\users\\p2963131\\documents\\~ charter\\python '
-   'projects\\sqlpython\\venv\\lib\\site-packages\\setuptools\\_vendor\\packaging\\_typing.py',
+   'projects\\sqlpython\\venv\\lib\\site-packages\\setuptools\\_vendor\\packaging\\utils.py',
+   'PYMODULE'),
+  ('setuptools._vendor.packaging.requirements',
+   'c:\\users\\p2963131\\documents\\~ charter\\python '
+   'projects\\sqlpython\\venv\\lib\\site-packages\\setuptools\\_vendor\\packaging\\requirements.py',
+   'PYMODULE'),
+  ('setuptools._vendor.packaging.markers',
+   'c:\\users\\p2963131\\documents\\~ charter\\python '
+   'projects\\sqlpython\\venv\\lib\\site-packages\\setuptools\\_vendor\\packaging\\markers.py',
    'PYMODULE'),
   ('setuptools.msvc',
    'c:\\users\\p2963131\\documents\\~ charter\\python '
