@@ -15,8 +15,8 @@ query = open('Queries/RF MAC Node Query TWC.SQL', 'r')
 # DB Server information
 DIALECT = 'oracle'
 SQL_DRIVER = 'cx_oracle'
-USERNAME = 'TCCH107'  # enter your username
-PASSWORD = 'v30m73dd6'  # enter your password
+USERNAME = 'XXXXXXX'  # enter your username
+PASSWORD = 'XXXXXXX'  # enter your password
 HOST = 'vtgv1-vtw.csgsystems.com'  # enter the oracle db host url
 PORT = 1521  # enter the oracle port number
 SERVICE = 'vtw.csgsystems.com'  # enter the oracle db service name
