@@ -15,8 +15,8 @@ query = open('TEST QuickSelect.sql', 'r')
 CONN_INFO = {
     'host': 'vtgv1-vtw.csgsystems.com',
     'port': 1521,
-    'user': 'TCCH107',
-    'psw': 'v30m73dd6',
+    'user': 'XXXXXXXXX',
+    'psw': 'XXXXXXXXX',
     'service': 'vtw.csgsystems.com',
 }
 CONN_STR = '{user}/{psw}@{host}:{port}/{service}'.format(**CONN_INFO)
